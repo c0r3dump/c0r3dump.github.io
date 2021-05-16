@@ -1,0 +1,17 @@
+title: c0r3dump CTF team
+email: c0r3dump@crysys.hu
+description: >- 
+  Webpage of the Hungarian c0r3dump CTF team.
+baseurl: ""
+url: "c0r3dump.github.io"
+twitter_username: c0r3dumpCTF
+github_username:  c0r3dump
+
+# Build settings
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
