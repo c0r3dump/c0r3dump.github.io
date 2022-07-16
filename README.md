@@ -17,6 +17,8 @@ Our CTF results.
 CTF writeups created by us.
 
 - [CTF](https://c0r3dump.github.io/CTF)
+    + [2022](https://c0r3dump.github.io/CTF/2022)
+        * [FaustCTF](https://c0r3dump.github.io/CTF/2022/FaustCTF)
     + [2021](https://c0r3dump.github.io/CTF/2021)
         * [m0leCon Teaser](https://c0r3dump.github.io/CTF/2021/m0leConTeaser)
     + [2020](https://c0r3dump.github.io/CTF/2020)
